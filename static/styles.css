@@ -1,0 +1,51 @@
+#banner
+{
+    background-color: black;
+    height: 50%;
+    width: 100%;
+    display: inline-block;
+}
+a
+{
+    color: red;
+    padding: 1%;
+    text-decoration: none;
+    font-size: 100%;
+    margin-bottom: 50%;
+}
+body
+{
+    background-color: white;
+}
+header
+{
+    color: red;
+    font-style: oblique;
+    font-size: 250%;
+}
+abouth
+{
+    color: black;
+    font-size: 25px;
+}
+aboutb
+{
+    color: black;
+}
+option
+{
+    font-size: 2.65%;
+}
+foo
+{
+    color: blue;
+    text-decoration: underline;
+}
+img
+{
+    display: block;
+}
+logo
+{
+    padding-left: 100%;
+}
