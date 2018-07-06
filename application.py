@@ -1,5 +1,5 @@
 from flask import Flask, redirect, render_template, session, url_for
-
+"""cool"""
 app = Flask(__name__)
 
 @app.route("/")
